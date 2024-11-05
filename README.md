@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivanirakhroan28
 - 🌱 I’m currently learning Data science
-- 📫 How to reach me rakhroanshivu@gmail.com
+- 📫 How to reach me rakhroanshivu@gmail.com , linkedin : www.linkedin.com/in/shivani-rakhroan
 - 📊 Passionate about leveraging data to solve real-world problems.
 - 🔍 Always curious and eager to learn new technologies.
 - 🚀 Building projects to enhance my data science skills.
